@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rioja"]
+	path = rioja
+	url = https://github.com/nsj3/rioja
+	shallow = true
+	registered = true
