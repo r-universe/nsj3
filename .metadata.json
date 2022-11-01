@@ -1,6 +1,12 @@
 [
   {
     "package": "rioja",
+    "url": "https://github.com/nsj3/rioja",
+    "oncran": true
+  },
+  {
+    "package": "riojaPlot",
+    "url": "https://github.com/nsj3/riojaPlot",
     "oncran": true
   }
 ]
