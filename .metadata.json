@@ -1,9 +1,0 @@
-[
-  {
-    "package": "rioja",
-    "oncran": true
-  },
-  {
-    "package": "riojaPlot"
-  }
-]
