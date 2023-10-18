@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/nsj3/universe
-	shallow = true
 	branch = HEAD
 [submodule "rioja"]
 	path = rioja
 	url = https://github.com/nsj3/rioja
-	shallow = true
-	registered = true
 [submodule "riojaPlot"]
 	path = riojaPlot
 	url = https://github.com/nsj3/riojaPlot
-	shallow = true
-	registered = true
