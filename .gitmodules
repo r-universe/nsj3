@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nsj3/universe
+	url = https://github.com/nsj3/nsj3.r-universe.dev
 	branch = HEAD
 [submodule "rioja"]
 	path = rioja
